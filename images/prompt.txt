@@ -1,0 +1,103 @@
+Hero Image – hero.jpg
+“A group of Indian nursing students practicing in a bright, modern hospital simulation lab in India. Students in blue and white nursing uniforms working with medical mannequins and equipment. Clean, professional, realistic photo style.”
+
+Instructors – instructors.jpg
+“Smiling Indian nurse instructor teaching a small class of nursing students in a well-lit classroom in India. Whiteboard and anatomy model in background. Warm, realistic photography.”
+
+Hands-On Training – hands-on.jpg
+“Indian nursing students performing hands-on clinical training with a patient dummy. Students in scrubs taking vitals, guided by an instructor. Modern Indian nursing lab, natural lighting, realistic photo.”
+
+Career Support – career.jpg
+“Indian nursing graduate in uniform shaking hands with a hospital HR representative at a job placement event in India. Bright, professional setting, modern hospital background, realistic photography.”
+
+CNA Program – cna.jpg
+“Indian nurse caring for an elderly patient in a healthcare facility in India. Nurse smiling warmly, clean medical environment, realistic photo style.”
+
+LPN Program – lpn.jpg
+“Indian practical nurse checking patient vitals using a sphygmomanometer in a clinic. Modern equipment, clean environment, realistic Indian hospital photo.”
+
+CPR Training – cpr.jpg
+“Indian nursing student practicing CPR on a mannequin under the supervision of an instructor in a training classroom. Professional healthcare learning environment, realistic photography.”
+
+
+===========================================================================================================================================================================
+
+Programs Page (programs.html)
+1️⃣ cna.jpg
+
+“An Indian nursing student in a clean healthcare facility assisting an elderly patient with compassion. Bright hospital environment, professional photo, realistic Indian nurse in blue uniform.”
+
+2️⃣ lpn.jpg
+
+“An Indian practical nurse in a modern hospital room checking a patient’s blood pressure using a sphygmomanometer. Realistic photo, clean lighting, professional Indian healthcare setting.”
+
+3️⃣ cpr.jpg
+
+“Indian nursing students in training uniforms practicing CPR on mannequins under instructor supervision in a bright classroom. Professional, realistic photography.”
+
+4️⃣ hands-on.jpg
+
+“Group of Indian nursing students performing hands-on clinical practice in a nursing lab with patient dummies and medical instruments. Bright, realistic Indian training center.”
+
+🎓 Admissions Page (admissions.html)
+5️⃣ admissions.jpg (optional hero/banner image)
+
+“Indian students sitting in a nursing academy office with an admissions counselor reviewing application forms. Modern interior, bright, welcoming atmosphere, realistic photography.”
+
+🧑‍⚕️ About Page (about.html)
+6️⃣ about.jpg (optional hero or content banner)
+
+“A diverse group of Indian nursing students and instructors standing together in a hospital corridor, smiling confidently. Professional uniforms, clean background, realistic photo style.”
+
+7️⃣ mission.jpg
+
+“Indian nurse gently holding a patient’s hand in a hospital bed, symbolizing compassion and care. Soft natural lighting, warm realistic photo style.”
+
+8️⃣ values.jpg
+
+“Collage or group of Indian nursing students studying, assisting patients, and attending class — representing teamwork and dedication. Professional, realistic image.”
+
+📞 Contact Page (contact.html)
+9️⃣ contact.jpg (optional hero image)
+
+“Front desk of an Indian nursing academy with staff assisting visitors and students. Clean signage, bright lighting, realistic photo.”
+
+🔟 map.jpg (optional small image if embedding map is not possible)
+
+“Aerial view of a modern Indian educational campus with signage for a nursing academy. Daylight, professional and realistic photo.”
+
+💡 Tips for Generation Consistency
+
+When generating all these:
+
+Keep the same style description at the end of each prompt:
+“Bright lighting, professional, realistic photography, Indian healthcare training environment.”
+
+Aspect ratio: Use 16:9 (landscape) for banners, 1:1 (square) for cards or feature images.
+
+Uniform colors: Blue & white uniforms to maintain brand consistency.
+
+===========================================================================================================================================================================
+
+
+
+Hero Image – hero.jpg
+“A group of nursing students practicing in a bright, modern hospital simulation lab. They are wearing clean nursing scrubs, working with medical equipment and mannequins. Professional, well-lit, realistic photograph style.”
+
+Instructors – instructors.jpg
+“Smiling nurse instructor teaching a small class of nursing students in a classroom. Whiteboard and anatomy models in background. Warm lighting, professional, realistic photo.”
+
+Hands-On Training – hands-on.jpg
+“Nursing students performing hands-on clinical training with a patient dummy. Students wearing blue scrubs, using stethoscopes and taking vitals. Modern lab environment, natural lighting, realistic style.”
+
+Career Support – career.jpg
+“A happy graduate nurse shaking hands with a hospital recruiter during a job placement event. Professional attire, bright and positive atmosphere, hospital lobby background, realistic photograph.”
+
+CNA Program – cna.jpg
+“Certified Nursing Assistant caring for an elderly patient in a clean healthcare facility. Nurse smiling, gentle atmosphere, bright lighting, realistic professional photo.”
+
+LPN Program – lpn.jpg
+“Licensed Practical Nurse checking a patient’s blood pressure in a clinic setting. Nurse wearing professional scrubs, modern medical environment, realistic photo style.”
+
+CPR Training – cpr.jpg
+“Nursing student practicing CPR on a medical mannequin in a training classroom. Instructor supervising, emergency training setting, clear lighting, professional realistic photograph.”

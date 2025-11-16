@@ -1,0 +1,89 @@
+Would you like me to help you organize image filenames and folder structure (e.g., /images/programs/, /images/about/) and reference them directly in your HTML for SEO and performance?
+
+
+Excellent idea ✅ — adding metadata (SEO tags, Open Graph, and accessibility tags) will help your Nurse Training Academy website rank better on Google and look professional when shared on social media.
+
+Below, I’ll show you optimized metadata for each HTML file — you can paste it inside the <head> section below the <title> tag.
+
+🌐 1. index.html (Home Page)
+<title>Nurse Training Academy | Best Nursing Courses & Certification in India</title>
+<meta name="description" content="Join Nurse Training Academy, India’s trusted institute for nursing and healthcare education. Accredited courses, expert instructors, and 100% placement support.">
+<meta name="keywords" content="Nurse Training Academy, Nursing Courses India, Nursing Institute, CNA Training, LPN Courses, CPR Certification, Nursing School Delhi, Healthcare Education">
+<meta name="author" content="Nurse Training Academy">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph / Social -->
+<meta property="og:title" content="Nurse Training Academy | Professional Nursing Education in India">
+<meta property="og:description" content="Start your nursing career with accredited training, practical learning, and expert guidance.">
+<meta property="og:image" content="images/hero.jpg">
+<meta property="og:url" content="https://www.nursetrainingacademy.in/">
+<meta name="twitter:card" content="summary_large_image">
+
+📘 2. programs.html
+<title>Nursing Programs | CNA, LPN, CPR Training - Nurse Training Academy</title>
+<meta name="description" content="Explore our accredited nursing programs including CNA, LPN, and CPR training. Practical skills, hands-on learning, and expert faculty to shape your healthcare career.">
+<meta name="keywords" content="Nursing Programs, CNA, LPN, CPR Training, Nursing Courses India, Nursing Institute Delhi, Nurse Certification, Healthcare Training">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Top Nursing Programs in India | Nurse Training Academy">
+<meta property="og:description" content="Accredited CNA, LPN, and CPR programs with real-world clinical training.">
+<meta property="og:image" content="images/cna.jpg">
+<meta property="og:url" content="https://www.nursetrainingacademy.in/programs.html">
+
+🧾 3. admissions.html
+<title>Admissions | Join Nurse Training Academy in India</title>
+<meta name="description" content="Apply now to Nurse Training Academy. Simple admission process, eligibility details, and counseling support for all nursing and healthcare programs.">
+<meta name="keywords" content="Nursing Admissions, Nurse Training Academy Admission, Apply for Nursing Course, Nursing School Admission India, Nursing Entrance Delhi">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Admissions Open | Nurse Training Academy India">
+<meta property="og:description" content="Begin your journey in nursing. Apply to our accredited training programs with placement support.">
+<meta property="og:image" content="images/admissions.jpg">
+<meta property="og:url" content="https://www.nursetrainingacademy.in/admissions.html">
+
+🧑‍⚕️ 4. about.html
+<title>About Nurse Training Academy | Nursing Institute in India</title>
+<meta name="description" content="Nurse Training Academy is a leading nursing institute in India, dedicated to developing compassionate and skilled healthcare professionals through quality education.">
+<meta name="keywords" content="About Nurse Training Academy, Nursing Institute India, Nursing Education, Healthcare Training, Nursing Faculty, Nurse School Vision Mission">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="About Us | Nurse Training Academy India">
+<meta property="og:description" content="Learn about our mission, vision, and values that drive excellence in nursing education.">
+<meta property="og:image" content="images/about.jpg">
+<meta property="og:url" content="https://www.nursetrainingacademy.in/about.html">
+
+📞 5. contact.html
+<title>Contact Nurse Training Academy | Nursing School in India</title>
+<meta name="description" content="Get in touch with Nurse Training Academy for admissions, program details, or partnership inquiries. Call us or visit our New Delhi campus.">
+<meta name="keywords" content="Contact Nurse Training Academy, Nursing School Delhi, Nursing Institute India, Healthcare Education Contact, Nursing Courses Help">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Contact Us | Nurse Training Academy India">
+<meta property="og:description" content="We’re here to help you start your nursing journey. Contact our admissions team today.">
+<meta property="og:image" content="images/contact.jpg">
+<meta property="og:url" content="https://www.nursetrainingacademy.in/contact.html">
+
+⚙️ General SEO & Accessibility Tips
+
+Add alt text to all <img> tags — e.g.
+
+<img src="images/cna.jpg" alt="Indian nursing student caring for patient during CNA training">
+
+
+Use semantic HTML tags (<header>, <main>, <footer>, <section>) for better Google indexing.
+
+Add structured data (schema.org) if you want to boost local SEO — e.g., Organization, LocalBusiness, or EducationalOrganization.
+
+Compress your images (.webp preferred) to improve load speed.
+
+Include a favicon:
+
+<link rel="icon" type="image/png" href="images/favicon.png">
+
+
+Would you like me to include a schema markup (JSON-LD) snippet for your homepage — describing your academy as a recognized educational organization for Google Search?
+(It improves visibility in search results and adds credibility.)

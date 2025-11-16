@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+header {
+  background: #005ea2;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+header .logo {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: url('images/hero.jpg') center/cover no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 6rem 1rem;
+}
+
+.hero-text {
+  max-width: 700px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  background: #00bfa5;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background: #009e8a;
+}
+
+.features, .programs, .testimonials {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: #fff;
+  margin: 2rem 0;
+}
+
+.features h2, .programs h2, .testimonials h2 {
+  color: #005ea2;
+  margin-bottom: 2rem;
+}
+
+.feature-container, .program-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.feature, .program-card {
+  background: #f0f8ff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  max-width: 300px;
+  text-align: center;
+}
+
+.feature img, .program-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.testimonial {
+  background: #e8f4ff;
+  margin: 1rem auto;
+  padding: 1.5rem;
+  max-width: 600px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  background: #005ea2;
+  color: #fff;
+  padding: 1.5rem 1rem;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.page-header {
+  text-align: center;
+  background-color: #e8f4ff;
+  padding: 3rem 1rem;
+  color: #005ea2;
+}
+
+.page-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.content {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  line-height: 1.7;
+}
+
+.content h2 {
+  color: #005ea2;
+  margin-top: 2rem;
+}
+
+.content ol, .content ul {
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.contact-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.contact-info, .contact-form {
+  flex: 1;
+  min-width: 300px;
+  background: #f0f8ff;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.contact-form form input, .contact-form form textarea {
+  width: 100%;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.active {
+  text-decoration: underline;
+}
+
